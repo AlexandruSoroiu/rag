@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Emily Chen",
+            "subject": "Physics",
+            "stars": 5,
+            "review": "Dr. Chen's lectures are incredibly engaging. She explains complex concepts with clarity and enthusiasm."
+        },
+        {
+            "professor": "Prof. Michael Johnson",
+            "subject": "History",
+            "stars": 4,
+            "review": "Very knowledgeable about the subject. Sometimes goes off on tangents, but overall a good instructor."
+        },
+        {
+            "professor": "Dr. Sarah Thompson",
+            "subject": "Biology",
+            "stars": 3,
+            "review": "Lectures can be dry, but Dr. Thompson is always willing to help during office hours."
+        },
+        {
+            "professor": "Prof. David Lee",
+            "subject": "Mathematics",
+            "stars": 5,
+            "review": "Excellent teacher! Makes calculus understandable and even enjoyable."
+        },
+        {
+            "professor": "Dr. Rachel Green",
+            "subject": "Psychology",
+            "stars": 4,
+            "review": "Engaging lectures and interesting assignments. Could improve on providing timely feedback."
+        },
+        {
+            "professor": "Prof. Robert Brown",
+            "subject": "Chemistry",
+            "stars": 2,
+            "review": "Difficult to follow in class. Seems more focused on research than teaching."
+        },
+        {
+            "professor": "Dr. Lisa Wang",
+            "subject": "Computer Science",
+            "stars": 5,
+            "review": "Dr. Wang is an inspiration. Her passion for coding is contagious."
+        },
+        {
+            "professor": "Prof. James Wilson",
+            "subject": "English Literature",
+            "stars": 4,
+            "review": "Insightful analysis of texts. Assignments can be challenging but rewarding."
+        },
+        {
+            "professor": "Dr. Maria Garcia",
+            "subject": "Sociology",
+            "stars": 3,
+            "review": "Interesting course content, but lectures can be disorganized at times."
+        },
+        {
+            "professor": "Prof. Thomas Anderson",
+            "subject": "Philosophy",
+            "stars": 5,
+            "review": "Thought-provoking discussions. Prof. Anderson really makes you question your assumptions."
+        },
+        {
+            "professor": "Dr. Jennifer Lee",
+            "subject": "Economics",
+            "stars": 4,
+            "review": "Clear explanations of complex economic theories. Heavy workload but worth it."
+        },
+        {
+            "professor": "Prof. William Taylor",
+            "subject": "Political Science",
+            "stars": 2,
+            "review": "Lectures are monotonous. Seems biased in presenting political viewpoints."
+        },
+        {
+            "professor": "Dr. Elizabeth Moore",
+            "subject": "Art History",
+            "stars": 5,
+            "review": "Passionate about the subject. Field trips to museums were a highlight."
+        },
+        {
+            "professor": "Prof. Daniel Kim",
+            "subject": "Marketing",
+            "stars": 3,
+            "review": "Brings real-world experience to the classroom. Could improve on organization."
+        },
+        {
+            "professor": "Dr. Olivia Martinez",
+            "subject": "Environmental Science",
+            "stars": 4,
+            "review": "Engaging lectures on current environmental issues. Challenging but fair exams."
+        },
+        {
+            "professor": "Prof. Christopher White",
+            "subject": "Music Theory",
+            "stars": 5,
+            "review": "Brilliant instructor. Makes complex musical concepts accessible to all students."
+        },
+        {
+            "professor": "Dr. Sophia Patel",
+            "subject": "Neuroscience",
+            "stars": 4,
+            "review": "Cutting-edge research incorporated into lessons. Could provide more study resources."
+        },
+        {
+            "professor": "Prof. Andrew Johnson",
+            "subject": "Statistics",
+            "stars": 3,
+            "review": "Knowledgeable but sometimes struggles to explain concepts clearly."
+        },
+        {
+            "professor": "Dr. Natalie Wong",
+            "subject": "Linguistics",
+            "stars": 5,
+            "review": "Fascinating course content. Dr. Wong's enthusiasm for language is infectious."
+        },
+        {
+            "professor": "Prof. Samuel Adams",
+            "subject": "Business Ethics",
+            "stars": 2,
+            "review": "Important topic, but lectures are unfocused. Grading seems arbitrary at times."
+        }
+    ]
+}

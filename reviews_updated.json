@@ -1,0 +1,1492 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Emily Chen",
+            "subject": "Physics",
+            "stars": 5,
+            "review": "Dr. Chen's lectures are incredibly engaging. She explains complex concepts with clarity and enthusiasm."
+        },
+        {
+            "professor": "Prof. Michael Johnson",
+            "subject": "History",
+            "stars": 4,
+            "review": "Very knowledgeable about the subject. Sometimes goes off on tangents, but overall a good instructor."
+        },
+        {
+            "professor": "Dr. Sarah Thompson",
+            "subject": "Biology",
+            "stars": 3,
+            "review": "Lectures can be dry, but Dr. Thompson is always willing to help during office hours."
+        },
+        {
+            "professor": "Prof. David Lee",
+            "subject": "Mathematics",
+            "stars": 5,
+            "review": "Excellent teacher! Makes calculus understandable and even enjoyable."
+        },
+        {
+            "professor": "Dr. Rachel Green",
+            "subject": "Psychology",
+            "stars": 4,
+            "review": "Engaging lectures and interesting assignments. Could improve on providing timely feedback."
+        },
+        {
+            "professor": "Prof. Robert Brown",
+            "subject": "Chemistry",
+            "stars": 2,
+            "review": "Difficult to follow in class. Seems more focused on research than teaching."
+        },
+        {
+            "professor": "Dr. Lisa Wang",
+            "subject": "Computer Science",
+            "stars": 5,
+            "review": "Dr. Wang is an inspiration. Her passion for coding is contagious."
+        },
+        {
+            "professor": "Prof. James Wilson",
+            "subject": "English Literature",
+            "stars": 4,
+            "review": "Insightful analysis of texts. Assignments can be challenging but rewarding."
+        },
+        {
+            "professor": "Dr. Maria Garcia",
+            "subject": "Sociology",
+            "stars": 3,
+            "review": "Interesting course content, but lectures can be disorganized at times."
+        },
+        {
+            "professor": "Prof. Thomas Anderson",
+            "subject": "Philosophy",
+            "stars": 5,
+            "review": "Thought-provoking discussions. Prof. Anderson really makes you question your assumptions."
+        },
+        {
+            "professor": "Dr. Jennifer Lee",
+            "subject": "Economics",
+            "stars": 4,
+            "review": "Clear explanations of complex economic theories. Heavy workload but worth it."
+        },
+        {
+            "professor": "Prof. William Taylor",
+            "subject": "Political Science",
+            "stars": 2,
+            "review": "Lectures are monotonous. Seems biased in presenting political viewpoints."
+        },
+        {
+            "professor": "Dr. Elizabeth Moore",
+            "subject": "Art History",
+            "stars": 5,
+            "review": "Passionate about the subject. Field trips to museums were a highlight."
+        },
+        {
+            "professor": "Prof. Daniel Kim",
+            "subject": "Marketing",
+            "stars": 3,
+            "review": "Brings real-world experience to the classroom. Could improve on organization."
+        },
+        {
+            "professor": "Dr. Olivia Martinez",
+            "subject": "Environmental Science",
+            "stars": 4,
+            "review": "Engaging lectures on current environmental issues. Challenging but fair exams."
+        },
+        {
+            "professor": "Prof. Christopher White",
+            "subject": "Music Theory",
+            "stars": 5,
+            "review": "Brilliant instructor. Makes complex musical concepts accessible to all students."
+        },
+        {
+            "professor": "Dr. Sophia Patel",
+            "subject": "Neuroscience",
+            "stars": 4,
+            "review": "Cutting-edge research incorporated into lessons. Could provide more study resources."
+        },
+        {
+            "professor": "Prof. Andrew Johnson",
+            "subject": "Statistics",
+            "stars": 3,
+            "review": "Knowledgeable but sometimes struggles to explain concepts clearly."
+        },
+        {
+            "professor": "Dr. Natalie Wong",
+            "subject": "Linguistics",
+            "stars": 5,
+            "review": "Fascinating course content. Dr. Wong's enthusiasm for language is infectious."
+        },
+        {
+            "professor": "Prof. Samuel Adams",
+            "subject": "Business Ethics",
+            "stars": 2,
+            "review": "Important topic, but lectures are unfocused. Grading seems arbitrary at times."
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "Seriously the best, very easy going",
+            "stars": 5,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "I reccomend taking this class. Tests grades are weighted heavily ,however he makes sure everyone will pass and offers extra credit. He is really funny and ends class early a decent amount of the time. Overall a good class!",
+            "stars": 4,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "LOVE Dr. Ionescu! my favorite professor at wag",
+            "stars": 5,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "I really enjoyed this class. I had him for Calc 2 and liked it a lot. He warned us it was going to be a difficult class but it ended up being fine. My class was small so he was able to give individual attention. He really wanted you to understand the material and would go over it until you did. Definitely recommended.",
+            "stars": 3,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "Doc Ionescu is great. He asked me to write this review in his class and I happily obliged. Take his classes and you will have a great time and learn. Is it clear?",
+            "stars": 4,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "I found Ionescu to be one of the best teachers at Wagner, however, if math isn't your strong point you may find him a bit confusing. If you like math and do all the homework, you should do fine. Extremely funny and interesting-you can't help but like him. Fair with the tests which he sometimes makes open book. Rarely gives anyone lower than a B+.",
+            "stars": 5,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "THE WORST PROFESSOR AT WAGNER AVOID AT ALL COSTS!!!",
+            "stars": 1,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "He is nice and his class is so easy! As long as you do the work and put a little extra effort in you will get a good grade. If you are happy with your grade before the final he gives you the option of taking it, at least for my class. Great teacher!",
+            "stars": 4,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "Ok, so he is horrible teacher for calculus. It is a pain for him to get up and write on the board. If you got a $100 dollars for every time he said is it clear you would be a rich! He doesn't even grade his own work, the \"grader\" grades it,and he doesnt care if he graded it wrong. He is funny occasionaly but his class is miserable!! Avoid @ all cos",
+            "stars": 2,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "He is a really fun teacher. Hes an easy going guy and knows his stuff. As long as you do what he asks you should have no problem getting a good grade. I recommend to take one of his classes.",
+            "stars": 5,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "Getting randomly placed into this compsci. LC frosh yr=best thing that ever happened. The pairing of his ltd. spoken/written eng. lang. skills w/his humor is quite endearing. If u email him often & joke around w/him in class u can be absent to ur heart's delight. He is one big foreign ball of fun, laughs & kindness.",
+            "stars": 5,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "the most lovable teacher i have yet to meet. truly wanted his students to do well and have a fun time. class rarely lasted the full period, not really any homework, joked around with his students, and made rather boring material enjoyable to learn. the accent was so endearing =) i miss him already! haha",
+            "stars": 5,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "ionescu stands for I Of No English Speaking Country Untry, but he brings the heat",
+            "stars": 4,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "The most dedicated CS teacher at Wagner. If you come with a real interest in the subject and are willing to work with him a bit, he will do everything he can to help you. He is sometimes frustrated that the lower level teachers before him have not prepared his students (making him go back to teaching pointers in a senior level class often) but once you're ready, he's got an amazing amount of knowledge to convey",
+            "stars": 4,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "This guy is SO easy going if you take a night class with him... he would ASK us if we wanted homework... always got out of class early.. good teacher... not hard subject matter",
+            "stars": 3,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "Tough subject matter, but he really does try to do what's best for students. If many in the class really don't like the way something is being taught, speak up, and he'll do his best to fix it.",
+            "stars": 4,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "No Comments",
+            "stars": 2,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Adrian Ionescu",
+            "review": "The most difficult, unhelpful, unclear, confused teacher in the world. At least his English is a bit better than the rest of the CS dept.",
+            "stars": 1,
+            "subject": "Computer Science"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I took this class for my minor and Professor Morowitz taught me so much about art history. Make sure you take a lot of notes during class and read the textbook or YOU WILL be lost during the exam. All her exams are essay-based! As long as you do the readings, participate, and attend the MET, you will have no problem passing this course!",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I took Dr.Morowitz's class for my LC my freshman year and she is an amazing professor. She is able to answer your questions very thoroughly and is extremely understanding of outside issues that may effect your work or attendance in class. This is all coming from a nursing major who did not really have any interest in art prior to this course.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Make sure to be ready for all the \"No\"s on the side of your papers of her annotations. Tough grader, one too many trips to the met. Good explainer. Fulfilling this course for a LC. It would be better if I was an art major or something along those lines. I like her nose ring though.",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Attendance matters and you must particpate because she expects it, if you don't she'll just end up calling on you. She assigns a lot of reading, and take notes on them because she will ask questions about it the next class. However, the midterm and final were easy. If you are not an art major don't take this class.",
+            "stars": 3,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Would never take this class again! Very difficult if you dont plan on majoring in arts. Shes a very tough grader and she expects you to participate.",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Art history was part of my LC, and the whole class was assigned to it, and we were not interested in itm (were science majors). The class was boring, and when we tried to participate, she would shoot us down, and made us describe more. I woukd do all the readings, and hws and still have trouble. Do NOT recommend",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "My favorite professor at Wagner and I was NOT an art major. But I ended up taking 3 of her classes just to hear her speak. She is so inspirational and I felt blessed to be able to learn from her. I fell in love with art history through her knowledge. Passionate planning put into the lessons. You wont regret this!!",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "She inspires me, she is so passionate about what she teaches and it makes me excited to learn. Im someone who rarely participate in class questions, she has somehow turned me into someone who answers every question. She is extremely knowledgeable, and informative. If I were to walk into the MET, I could explain everything. Thanks to her!",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Had this class for my freshmen LC and I dreaded it. This teacher takes it as if we're art history majors. You can go to the writing center and have an A+ paper and she'll still find a way to tear it apart. Tests are relatively easy if you study. I wouldn't take this class if you aren't an art history major.",
+            "stars": 3,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Agree with the last comment. Received A's on both exams, somehow got a B in class. Avoid",
+            "stars": 1,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Great professor. Took the class just to get an art requirement out of the way but ended up falling in love with art history more than anticipated",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "My favorite professor at Wagner. I am not an art major but she inspired me to appreciate art. It was AH:Modern art (I don't remember the code) really fun, she loves ppl who participate. BARELY ANY HOMEWORK. How to get an A on tests: memorize dates and write as if you are passionate about the class.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Probably the most knowledgeable teacher I have ever had, I have so much respect for Ms. Morowitz. In taking her class I realized that I love art history, and she did an amazing job of telling me how much history was influenced by art, and vice versa. Tests are quite tough though, make sure you study a lot!",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I took Morowitz's freshman LC. She's so great, she was like a mom to all of us. She really knows what she's talking about and is there for you. She wants to make sure everyone does their best. I also spaced out in her class a lot and still did well. Readings are important and pay attention to the questions she puts on Moodle, she'll quiz you.",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Her class was interesting, engaging; diverse with projects and museum trips; she is extremely knowledgeable about art history; very helpful and available if you have questions. I would recommend this class even if you don't think you like art history.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Class is really pointless. Tough teacher boring subject. Stay away unless you are completely obsessed with art. THIS IS A CLASS TO AVOID if you do not love art.",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "extremely knowledgeable & great teacher. Knows subject and communicates with obvious passion. Highly recommended.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I LOVE Prof. Morowitz! She makes Art History an enjoyable subject. I have had her for other AH classes and I always came out of class with an expanded knowledge of different time periods.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Not the best Art History Prof.",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "incredibly intelligent and kind. her classes cover lot of material but tests are more than fair. listen, and you will be inspired. dr. morowitz was the finest teacher i have ever encountered.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I took this class for my minor and Professor Morowitz taught me so much about art history. Make sure you take a lot of notes during class and read the textbook or YOU WILL be lost during the exam. All her exams are essay-based! As long as you do the readings, participate, and attend the MET, you will have no problem passing this course!",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I took Dr.Morowitz's class for my LC my freshman year and she is an amazing professor. She is able to answer your questions very thoroughly and is extremely understanding of outside issues that may effect your work or attendance in class. This is all coming from a nursing major who did not really have any interest in art prior to this course.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Make sure to be ready for all the \"No\"s on the side of your papers of her annotations. Tough grader, one too many trips to the met. Good explainer. Fulfilling this course for a LC. It would be better if I was an art major or something along those lines. I like her nose ring though.",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Attendance matters and you must particpate because she expects it, if you don't she'll just end up calling on you. She assigns a lot of reading, and take notes on them because she will ask questions about it the next class. However, the midterm and final were easy. If you are not an art major don't take this class.",
+            "stars": 3,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Would never take this class again! Very difficult if you dont plan on majoring in arts. Shes a very tough grader and she expects you to participate.",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Art history was part of my LC, and the whole class was assigned to it, and we were not interested in itm (were science majors). The class was boring, and when we tried to participate, she would shoot us down, and made us describe more. I woukd do all the readings, and hws and still have trouble. Do NOT recommend",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "My favorite professor at Wagner and I was NOT an art major. But I ended up taking 3 of her classes just to hear her speak. She is so inspirational and I felt blessed to be able to learn from her. I fell in love with art history through her knowledge. Passionate planning put into the lessons. You wont regret this!!",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "She inspires me, she is so passionate about what she teaches and it makes me excited to learn. Im someone who rarely participate in class questions, she has somehow turned me into someone who answers every question. She is extremely knowledgeable, and informative. If I were to walk into the MET, I could explain everything. Thanks to her!",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Had this class for my freshmen LC and I dreaded it. This teacher takes it as if we're art history majors. You can go to the writing center and have an A+ paper and she'll still find a way to tear it apart. Tests are relatively easy if you study. I wouldn't take this class if you aren't an art history major.",
+            "stars": 3,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Agree with the last comment. Received A's on both exams, somehow got a B in class. Avoid",
+            "stars": 1,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Great professor. Took the class just to get an art requirement out of the way but ended up falling in love with art history more than anticipated",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "My favorite professor at Wagner. I am not an art major but she inspired me to appreciate art. It was AH:Modern art (I don't remember the code) really fun, she loves ppl who participate. BARELY ANY HOMEWORK. How to get an A on tests: memorize dates and write as if you are passionate about the class.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Probably the most knowledgeable teacher I have ever had, I have so much respect for Ms. Morowitz. In taking her class I realized that I love art history, and she did an amazing job of telling me how much history was influenced by art, and vice versa. Tests are quite tough though, make sure you study a lot!",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I took Morowitz's freshman LC. She's so great, she was like a mom to all of us. She really knows what she's talking about and is there for you. She wants to make sure everyone does their best. I also spaced out in her class a lot and still did well. Readings are important and pay attention to the questions she puts on Moodle, she'll quiz you.",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Her class was interesting, engaging; diverse with projects and museum trips; she is extremely knowledgeable about art history; very helpful and available if you have questions. I would recommend this class even if you don't think you like art history.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Class is really pointless. Tough teacher boring subject. Stay away unless you are completely obsessed with art. THIS IS A CLASS TO AVOID if you do not love art.",
+            "stars": 4,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "extremely knowledgeable & great teacher. Knows subject and communicates with obvious passion. Highly recommended.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "I LOVE Prof. Morowitz! She makes Art History an enjoyable subject. I have had her for other AH classes and I always came out of class with an expanded knowledge of different time periods.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "Not the best Art History Prof.",
+            "stars": 2,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Laura Morowitz",
+            "review": "incredibly intelligent and kind. her classes cover lot of material but tests are more than fair. listen, and you will be inspired. dr. morowitz was the finest teacher i have ever encountered.",
+            "stars": 5,
+            "subject": "Fine Arts"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is an amazing professor and goes out of her way to help her students. She replys to emails quickly and is an easy grader.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Genuinely the kindest and most wonderful professor I have had. All you need to do is participate, show up to class, and complete the study guides for a decent grade. She truly wants all of her students to succeed. I could not recommend Dr. Sanchez any more!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Amazing professor. Tests are exactly like her review sheets. She really wants you to understand the language. Takes the time to go slow for those who need it.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Margarita is super outgoing, and LOVES any kind of participation. She doesn't care if you mess up/fumble your words or don't understand something. She's always willing to help in anyway she can. Aside from being uber opinionated about politics, she really knows her stuff when it comes to spanish. Lenient with grading too.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is outgoing and fun. She likes when you participate, have personality, and nice attitude. Encourages you to minor in Spanish",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Too opinionated. If I wanted to discuss politics all day I would have taken a Government class.",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "This feisty little Columbian woman is a wonderful professor who loves the Spanish language and wants her students to love it too. It's true she can be very opinionated, but she only wants to challenge her students to be involved citizens. Politics aside, she loves class enthusiasm. Participate A LOT no matter what and you're sure to do well!",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I loved Spanish 310. Profesora Sanchez is really demanding but I learned a lot from her. I'm in the cinema class this semester but I wish I were back with Prof. Sanchez!!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Incredible teacher! Anyone who really wants to learn and be challenged should consider taking one of her courses. I've had her for different classes and love her more and more with each one. If you do your best and take an active role, you will not only achieve things you didn't think you were capable of but you'll get a good grade as well.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I definitely think I learned the most from her spanish class than from the other spanish teachers.",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She is a nice lady, but she is very closed minded about her views, very opinionated, and very liberal. if u get offended by anti-war and anti-bush political ideas, this is not the class to take!!!especially since she tries to enforce her own beliefs on the entire class",
+            "stars": 3,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "She may seem a bit standoffish but once you get to know her, she's a really amazing woman!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I learned a lot in her class. She really pushes you but makes the class fun. Also the nicest lady ever!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "I love this woman to death. She is one of the greatest teachers ever! Her classes are very difficult but she pushes you to learn things for yourself. Can be a little confusing at times but the sweetest spanish lady you could ever meet!",
+            "stars": 4,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "Sweetest woman you will ever meet. Interesting class, but difficult!",
+            "stars": 5,
+            "subject": "Languages"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "\"She is amazing\"",
+            "stars": 4,
+            "subject": "Spanish"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "\"She is amazing\"",
+            "stars": 4,
+            "subject": "Spanish"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "\"She is amazing\"",
+            "stars": 4,
+            "subject": "Spanish"
+        },
+        {
+            "professor": "Margarita Sanchez",
+            "review": "\"She is amazing\"",
+            "stars": 4,
+            "subject": "Spanish"
+        },
+        {
+            "professor": "Buena Lolita",
+            "review": "Me gusta",
+            "stars": 4,
+            "subject": "Spanish"
+        }
+    ]
+}
